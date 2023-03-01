@@ -27,7 +27,7 @@ jobs:
       # Установка зависимостей
       - name: Установка зависимостей
         run: |
-          sudo apt install build-essential mtools bin86 
+          sudo apt install build-essential  bin86 gcc-multilib
           
 
       # Сборка
