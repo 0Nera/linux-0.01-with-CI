@@ -1,1 +1,5 @@
 *.o
+lib/lib.a
+tools/build
+tools/system.bin
+boot/boot
