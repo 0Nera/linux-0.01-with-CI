@@ -1,5 +1,6 @@
 linux-0.01 On Ubuntu 18.04/20.04 compilable with GCC
 
+[![push](https://github.com/0Nera/linux-0.01-with-CI/actions/workflows/main.yml/badge.svg)](https://github.com/0Nera/linux-0.01-with-CI/actions/workflows/main.yml)
 
 Revised version of the first kernel that can be compiled with GCC on machines with Ubuntu 18.04/20.04 64 and 32 bit versions on Intel/AMD. 
 
